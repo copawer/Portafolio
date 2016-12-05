@@ -1,0 +1,51 @@
+*
+{
+	outline: 1px solid red;
+}
+header
+{
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+	color: white;
+
+}
+header nav ul a
+{
+	color: white;
+}
+
+.porta
+{
+	text-align: center;
+	color: white;
+	margin: 50px 0 0 0;
+}
+button
+{
+	background-color: #FF5733;
+	border-radius: 15px;
+}
+.list-inline
+{ 
+	list-style: none;
+	z-index: 1;
+	position: relative;
+	right: 10px;
+	margin: 10px 0 0 0;
+    padding: 15px;
+    
+
+}
+
+.banner
+{
+    background: rgba(255, 87, 51);
+     background-color: rgba(255, 87, 51);
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+}
+
+
+
+/* Tu CSS va aqui */
