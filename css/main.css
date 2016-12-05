@@ -25,7 +25,7 @@ header .navbar{
     padding: 0 5%;    
 }
 .navbar button{background: rgba(0,0,0,0.3);
-    border: 1px solid rgba(7,53,147,0.7);
+    border: 1px solid rgba(229, 152, 102);
 }
 .navbar-header span{
     background-color: (229, 152, 102,0.7)
@@ -41,7 +41,7 @@ header .navbar{
     margin: 0;!important
 }
 .section-1{
-     background-color: rgb(7,53,147);
+     background-color: rgb(229, 152, 102);
 }
 /*------------SECTION-2-----------------*/
 .section-2{
